@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, meu nome é Nicolas de Oliveira
+# Sou aluno de Pensamento Computacional do 1°A
 
 <!--
 **Nicolindo934/Nicolindo934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
